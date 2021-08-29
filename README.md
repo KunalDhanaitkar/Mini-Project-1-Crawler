@@ -4,8 +4,6 @@ A Web Crawler for the newhaven.edu domain. **Web crawler**, sometimes called a s
 
 This Project was developed using Pytho and a Python library **Beautiful Soup**. Beautiful Soup is a Python library for pulling data out of HTML and XML files. It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping.
 
-> I have tried multiple ways to crawl the UNH website but couldn't get it to work the way you expect to. I hope you see the hard work I have put into these Projects. I have worked with various libraries and multiple platforms in this course and I am absolutely grateful to you for it.
-
 # Requirements
 
 * Python3
